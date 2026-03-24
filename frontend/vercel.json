@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/googleb533304a156f39ae.html",
+      "destination": "/googleb533304a156f39ae.html"
+    },
+    {
+      "source": "/((?!.*\\.).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
